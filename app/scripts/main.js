@@ -2,7 +2,7 @@ var suitRed = '#FF0000';
 var suitBlack = '#000000';
 var cardHeight = 200;
 var cardWidth = 60;
-var margin = -10;
+var margin = -5;
 
 var canvas = Snap(cardWidth * (52 + margin), cardHeight);
 var totalCardWidth = cardWidth + margin;
